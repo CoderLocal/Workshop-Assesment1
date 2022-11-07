@@ -1,0 +1,16 @@
+img{
+    width:750px;
+    height: 400px;
+    margin-top: 20px;
+}
+button{
+    width:max-content;
+    background-color: lightblue;
+    color: crimson;
+}
+#newLine{
+    display: block;
+}
+p{
+    display: inline;
+}
